@@ -1,0 +1,23 @@
+{
+    "welcome_to_Vela": "Welcome to Vela",
+    "a_simple_and_private": "A simple, and private way to use Vela on your computer",
+    "get_Started": "Get Started",
+    "enterCompanyCode": "Enter Company Code",
+    "pleaseentercompanycodesoyoucanlogin": "Please enter  company code so you can login",
+    "nowYouCanLogin": "Now You Can Login",
+    "login": "Login",
+    "pleaseEnterYourConactdetails": "Please enter  your conact details",
+    "phoneNumber": "phone Number",
+    "password": "Password",
+    "chats": "Chats",
+    "tybeAmessage": "Tybe a message",
+    "activeNow": "Active Now",
+    "searchOrStart": "Search or start a new chat",
+    "settings": "Settings",
+    "tasking": "Tasking",
+    "meeting": "Meeting",
+    "taskings": "Tasking History",
+    "meetings": "Meetings History",
+    "calling": "Calling",
+    "contacts": "Contacts"
+}

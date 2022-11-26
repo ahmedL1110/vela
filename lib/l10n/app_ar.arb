@@ -1,0 +1,23 @@
+{
+  "welcome_to_Vela": "مرحبًا بكم في فيلا",
+  "a_simple_and_private": "طريقة بسيطة وخصوصية لاستخدام Vela على جهاز الكمبيوتر الخاص بك",
+  "get_Started": "البدء",
+  "enterCompanyCode": "أدخل رمز الشركة",
+  "pleaseentercompanycodesoyoucanlogin": "الرجاء إدخال رمز الشركة حتى تتمكن من تسجيل الدخول",
+  "nowYouCanLogin": "الآن يمكنك تسجيل الدخول",
+  "pleaseEnterYourConactdetails": "الرجاء إدخال تفاصيل الاتصال الخاصة بك",
+  "phoneNumber": "رقم الهاتف",
+  "password": "كلمة المرور",
+  "chats": "الدردشات",
+  "tybeAmessage": "اكتب رسالة",
+  "login": "تسجيل",
+  "activeNow":"نشط الان",
+  "searchOrStart":"ابحث او انشئ محادثة جديدة",
+  "settings":"الاعدادات",
+  "calling":"الاتصال",
+  "tasking":"المهام",
+  "meeting":"المقابلات",
+  "taskings": "تاريخ المهام",
+  "meetings": "تاريخ الاجتماعات",
+  "contacts": "جهات الاتصال"
+}
