@@ -1,0 +1,12 @@
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Ahmed/vela/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/asset/images/Home.png
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/asset/images/Login1.png
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/asset/images/meetingImage.png
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Ahmed/vela/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
